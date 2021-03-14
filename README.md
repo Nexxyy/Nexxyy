@@ -3,7 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=onedark&hide_title=true)
 
 <details>
-  <sumamry>Current Knowledge</summary>
+  <summary>Current Knowledge</summary>
   <br>
 </details>
 

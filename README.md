@@ -1,9 +1,9 @@
-### Welcome 
+### Sup, my name is João, I'm known as Nexy!
 
 <details>
   <summary>Current Knowledge</summary>
   <br>
-  <h1>Most used languages</h1>
+  <p align="center">Most used Languages</p>
   <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>

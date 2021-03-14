@@ -1,11 +1,11 @@
-### Hi there 👋
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=onedark&hide_title=true)
+### Welcome 
 
 <details>
   <summary>Current Knowledge</summary>
   <br>
 </details>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=onedark&hide_title=true)
 
 <!--START_SECTION:waka-->
 ```text

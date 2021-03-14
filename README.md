@@ -19,6 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxyy&theme=onedark)
 
+My Activity (WakaTime)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week

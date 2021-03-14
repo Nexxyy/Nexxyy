@@ -1,4 +1,5 @@
-### Sup, my name is João, I'm known as Nexy!
+<h1>Sup, my name is João, known as Nexy!</h1>
+<p>• Just a young Java beginner, seeking as much knowledge as possible.</p>
 
 <details>
   <summary>Current Knowledge</summary>
@@ -15,6 +16,8 @@
 </details>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=onedark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxyy&theme=onedark)
 
 <!--START_SECTION:waka-->
 ```text

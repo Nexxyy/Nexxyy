@@ -22,6 +22,12 @@
 My Activity (WakaTime)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 March, 2021 - 15 March, 2021
+
+Java         6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.88 % 
+Git          5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.58 % 
+YAML         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 <!--END_SECTION:waka-->

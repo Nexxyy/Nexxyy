@@ -22,7 +22,7 @@
 My Activity (WakaTime)
 <!--START_SECTION:waka-->
 ```text
-Week: 12 March, 2021 - 19 March, 2021
+Week: 13 March, 2021 - 20 March, 2021
 
 Java         10 hrs 21 mins  ███████████████████████░░   91.72 % 
 YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 

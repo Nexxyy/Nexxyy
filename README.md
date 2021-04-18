@@ -22,11 +22,11 @@
 My Activity (WakaTime)
 <!--START_SECTION:waka-->
 ```text
-Week: 09 April, 2021 - 16 April, 2021
+Week: 10 April, 2021 - 17 April, 2021
 
-Java         10 hrs 47 mins  █████████████████████▓░░░   87.05 % 
-YAML         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-XML          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Java         12 hrs 38 mins  ██████████████████████░░░   88.52 % 
+YAML         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+XML          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->

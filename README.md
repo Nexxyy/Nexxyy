@@ -13,6 +13,7 @@
   </p>
 
 <p display="inline">
+  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=gotham&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxyy&theme=gotham)

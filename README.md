@@ -13,8 +13,8 @@
   </p>
 
 <p align="center">
-  <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=gotham&hide_title=true" height="123px">
-  <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxyy&theme=gotham" height="123px">
+  <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=gotham&hide_title=true" height="125px">
+  <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxyy&theme=gotham" height="125px">
 </p>  
 
 [![Nexxy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nexy1211&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)

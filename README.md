@@ -11,14 +11,13 @@
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   </p>
-
+  <br>
+  <br>
 <p align="center">
   <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=gotham&hide_title=true" height="125px">
   <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxyy&theme=gotham" height="125px">
   <img alt= "My Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nexy1211&theme=gotham" height="125px">
 </p>  
-
-[![Nexxy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nexy1211&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 My Activity (WakaTime)
 <!--START_SECTION:waka-->

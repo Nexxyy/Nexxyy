@@ -1,4 +1,4 @@
-<img alt="Ilustration of me" src="undraw_developer_activity_bv83.svg" height="300px" widht="580" align="right">
+<img alt="Ilustration of me" src="undraw_developer_activity_bv83.svg" height="230px" align="right">
 
 ### Sup, my name is João, known as Nexy!
 
@@ -13,6 +13,7 @@ Discovering the world through codes.
 ![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
 ### IDE and Text Editors
 ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)

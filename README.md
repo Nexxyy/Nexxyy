@@ -1,28 +1,24 @@
-<h1>Sup, my name is João, known as Nexy!</h1>
-<p>• Just a young Java beginner, seeking as much knowledge as possible.</p>
+<img alt="Ilustration of me" src="undraw_developer_activity_bv83.svg" height="300px" widht="580" align="right">
 
-  <br>
-  <h2 align="center"><strong>Most used Languages</strong></h2>
-  <p align="center">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  </p>
-  <br>
-  <br>
-<p align="center">
-  <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=gotham&hide_title=true" height="125px">
-  <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxyy&theme=gotham" height="125px">
-  
-  <img alt= "My Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nexy1211&theme=gotham" height="125px">
-</p>  
+### Sup, my name is João, known as Nexy!
 
-My Activity (WakaTime)
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+Discovering the world through codes.
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### IDE and Text Editors
+![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+
+<!-- <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=nexxyy&show_icons=true&theme=gotham&hide_title=true" height="125px"> -->
+

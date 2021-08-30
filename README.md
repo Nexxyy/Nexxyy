@@ -1,6 +1,6 @@
 <img alt="Ilustration of me" src="undraw_developer_activity_bv83.svg" height="230px" align="right">
 
-### Sup, my name is João, known as Nexy! 👋
+### Hello I'm João Vitor, aka Nexy! 👋
 
 Discovering the world through codes...
 

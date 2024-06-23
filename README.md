@@ -3,6 +3,9 @@
 ▸ Creating the unimaginable with <a href="https://github.com/Versatly">@Versatly</a>
 <br/>
 ▸ Developing everything that I consider modern and attractive
+<br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=faxshw&color=006bed)
 
 ## Get to know some of the techs I work with
 ### ⚡ Langs

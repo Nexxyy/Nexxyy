@@ -2,7 +2,7 @@
 
 ▸ Creating the unimaginable with <a href="https://github.com/Versatly">@Versatly</a>
 <br/>
-▸ Developing everything that I consider modern and attractive in the final result
+▸ Developing everything that I consider modern and attractive
 
 ## Get to know some of the techs I work with
 ### ⚡ Langs
